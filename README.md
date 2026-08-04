@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harini</h1>
+<h3 align="center">Data Engineer | SQL | Python | ETL | PySpark Learner</h3>
 
-<!--
-**harinikannansd-gif/harinikannansd-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Data Engineer with 4+ years of experience
+- 🛠 Skilled in SQL, Python, ETL and Database Management
+- 🌱 Currently learning PySpark, Apache Spark and Data Engineering
+- 📊 Passionate about Data Engineering and AI
+- 📍 Chennai, India
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode"/>
+
+</p>
+
+**Languages**
+- SQL
+- Python
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**Data Engineering**
+- ETL
+- PySpark
+- Apache Spark (Learning)
+
+
+---
+## 📫 Connect with Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Email: yourmail@gmail.com
